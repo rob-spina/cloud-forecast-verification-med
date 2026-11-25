@@ -124,5 +124,10 @@ Contains modified EUMETSAT MTG FCI data (2026).
 
 ## Author
 
-Roberto Spina — geologist and computer scientist (PhD in Computer Science).
+Roberto Spina — Technologist at INAF (Catania Astrophysical Observatory); geologist and
+computer scientist (PhD in Computer Science).
+[LinkedIn](https://linkedin.com/in/robspina)
+
+This is a personal project, developed independently with publicly available data;
+it is not an official INAF product.
 Code released under the MIT License.
