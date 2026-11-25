@@ -1,0 +1,11 @@
+ecmwf-opendata
+eumdac>=4.0.0
+xarray
+cfgrib
+eccodes
+netCDF4
+pyproj
+numpy
+pandas
+matplotlib
+cartopy
