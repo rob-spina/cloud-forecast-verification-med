@@ -1,5 +1,7 @@
 # Cloud cover forecast verification over the Mediterranean: ECMWF AIFS vs IFS against MTG FCI observations
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24573052.svg)](https://doi.org/10.5281/zenodo.24573052)
+
 This project compares the **total cloud cover** forecast by ECMWF's data-driven model
 (**AIFS Single**) and physics-based model (**IFS**) with cloud observations from the
 **MTG-I1 FCI** imager operated by EUMETSAT, over the Mediterranean, for lead times from
@@ -122,12 +124,13 @@ figures/                      figures used in this README
 Forecast data: ECMWF Open Data, licensed under CC BY 4.0.
 Contains modified EUMETSAT MTG FCI data (2026).
 
+
 ## Author
 
 Roberto Spina — Technologist at INAF (Catania Astrophysical Observatory); geologist and
-computer scientist (PhD in Computer Science).
-[LinkedIn](https://linkedin.com/in/robspina)
+computer scientist (PhD in Computer Science). ORCID: [0000-0001-7393-7249](https://orcid.org/0000-0001-7393-7249)
+· [LinkedIn](https://linkedin.com/in/robspina)
 
 This is a personal project, developed independently with publicly available data;
-it is not an official INAF product.
+it is not an official INAF product. 
 Code released under the MIT License.
