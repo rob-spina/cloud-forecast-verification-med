@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "cloud-forecast-verification-med: verification of ECMWF AIFS and IFS cloud cover forecasts against MTG FCI observations"
+version: 1.0.0
+date-released: 2026-11-27
+authors:
+  - family-names: Spina
+    given-names: Roberto
+    affiliation: "INAF - Catania Astrophysical Observatory"
+    orcid: "https://orcid.org/0000-0001-7393-7249"
+license: MIT
+repository-code: "https://github.com/rob-spina/cloud-forecast-verification-med"
+abstract: >-
+  Python pipeline that verifies total cloud cover forecasts from ECMWF's
+  data-driven model (AIFS Single) and physics-based model (IFS), taken from
+  ECMWF Open Data, against the EUMETSAT MTG-I1 FCI Level 2 cloud mask over the
+  Mediterranean, for lead times from 12 to 108 hours (12-21 November 2026).
+  It includes automated data retrieval, regridding of geostationary satellite
+  data to the 0.25 degree forecast grid, verification scores (bias, RMSE, MAE,
+  spatial correlation), a scale-dependence check and a quantitative
+  geolocation test.
+keywords:
+  - forecast verification
+  - cloud cover
+  - ECMWF
+  - AIFS
+  - IFS
+  - EUMETSAT
+  - MTG
+  - FCI
+  - machine learning weather prediction
+  - Python
